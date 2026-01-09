@@ -20,3 +20,12 @@ Ich habe es geschafft mein erstes Hello World auszugeben.
 https://www.youtube.com/watch?v=WRDl2gQObg8&list=PL1td_Fr5vMGOW0hasVEYlvfdm_oYh0xi9
 
 Ich habe mir dieses Tutorial rausgesucht, an welchem ich mich entlang hangel.
+
+Heute habe ich mit dem Tutorial angefangen und schon mit dem einrichten des Projektes angefangen. Beim Skalieren hatte ich mehrfach Probleme jedoch habe ich diese am Ende gelöst bekommen. Zudem habe ich schon meine Spielerfigur erstellt
+
+## 16.01
+
+- [ ] Ich möchte in den Projekteinstellungen alles fertig konfigurieren.
+- [ ] Ich möchte die nächsten Texturen in mein Game laden.
+- [ ] Ich möchte alles Texturen richtig skalieren.
+- [ ] Ich möchte anfangen die ersten Zeilen Code in meinem Projekt zu schreiben.
