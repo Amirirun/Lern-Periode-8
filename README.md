@@ -10,10 +10,13 @@ Meine engere Auswahl:
 
 Mein Gewinner: Godot! Man kann sich schnell in die Programmiersprache reinarbeiten und das Spiele programmieren macht mir einfach sehr viel Spass.
 
-  https://www.youtube.com/watch?v=Ej2p_TPGCDE&list=PLMgDVIa0Pg8XMe1GVc5eg0Rwi-cXqIR6q
-
 
 
 Ich habe es geschafft mein erstes Hello World auszugeben.
 
 <img width="2721" height="1814" alt="image" src="https://github.com/user-attachments/assets/8630b8c5-a14e-408d-a438-0e1bfe8ee448" />
+
+
+https://www.youtube.com/watch?v=WRDl2gQObg8&list=PL1td_Fr5vMGOW0hasVEYlvfdm_oYh0xi9
+
+Ich habe mir dieses Tutorial rausgesucht, an welchem ich mich entlang hangel.
