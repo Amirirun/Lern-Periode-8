@@ -2,7 +2,7 @@
 
 Meine engere Auswahl:
 
-- Godot:Godot ist in bei mir in der engeren Auswahl, weil ich dazu mehrere gut strukturierte Tutorials gefunden habe und mich generell stark für Spieleentwicklung interessiere.
+- Godot:Godot ist in bei mir in der engeren Auswahl, weil ich dazu mehrere gut strukturierte Tutorials gefunden habe und mich generell stark für Spieleentwicklung interessiere(Auch C# Support)
 
 - TypeScript:Diese Programmiersprache hört sich für mich auch sehr spannend an. JavaScript an sich hat mir schon sehr gut gefallen und ich würde gerne einfache eine Erweiterung davon sehen.
   
