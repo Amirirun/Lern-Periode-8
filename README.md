@@ -25,7 +25,19 @@ Heute habe ich mit dem Tutorial angefangen und schon mit dem einrichten des Proj
 
 ## 16.01
 
-- [ ] Ich möchte in den Projekteinstellungen alles fertig konfigurieren.
-- [ ] Ich möchte die nächsten Texturen in mein Game laden.
-- [ ] Ich möchte alles Texturen richtig skalieren.
-- [ ] Ich möchte anfangen die ersten Zeilen Code in meinem Projekt zu schreiben.
+- [x] Ich möchte in den Projekteinstellungen alles fertig konfigurieren.
+- [x] Ich möchte meinen Character bewegen können.
+- [x] Ich möchte dass der Chararacter vor den Wänden stehenbleibt.
+- [x] Ich möchte anfangen die Hitboxen zu skalieren.
+
+Heute habe ich angefangen die Bewegungen des Characters zu programmieren. Ich hatte beim Sklarien teilweise noch grosse Probleme und noch eine Schwierigkeit war das mein Tutorial in Godot 3 ist aber meine Version Godot 4 ist, weshalb ich einige Sachen umprogrammieren musste
+
+
+## 23.01
+
+- [ ] Ich möchte die Kollisionen programmieren
+- [ ] Ich möchte die Schwerkraft programmieren
+- [ ] Ich möchte ein Level mit einer Tilemap programmieren
+- [ ] Ich möchte noch eigene Texturen erstellen
+- [ ] 
+
