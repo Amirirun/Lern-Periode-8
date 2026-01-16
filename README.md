@@ -39,5 +39,5 @@ Heute habe ich angefangen die Bewegungen des Characters zu programmieren. Ich ha
 - [ ] Ich möchte die Schwerkraft programmieren
 - [ ] Ich möchte ein Level mit einer Tilemap programmieren
 - [ ] Ich möchte noch eigene Texturen erstellen
-- [ ] 
+- [ ] Ich möchte ein 2tes Level erstellen
 
