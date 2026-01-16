@@ -1,0 +1,30 @@
+[gd_scene load_steps=4 format=3 uid="uid://d0cpahkcpkq55"]
+
+[ext_resource type="Texture2D" uid="uid://d053ohaukqce5" path="res://Assets/Player.png" id="1_iukft"]
+
+[sub_resource type="GDScript" id="GDScript_iukft"]
+script/source = "
+
+	
+"
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_iukft"]
+size = Vector2(9.804255, 9.878419)
+
+[node name="Game" type="Node2D"]
+position = Vector2(-978, -954)
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+
+[node name="Player" type="Sprite2D" parent="CharacterBody2D"]
+position = Vector2(1026, 973.99994)
+scale = Vector2(9.1796875, 8.436768)
+texture = ExtResource("1_iukft")
+hframes = 8
+vframes = 8
+script = SubResource("GDScript_iukft")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
+position = Vector2(1026, 995.32904)
+scale = Vector2(9.1796875, 8.436768)
+shape = SubResource("RectangleShape2D_iukft")
