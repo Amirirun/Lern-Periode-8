@@ -30,7 +30,7 @@ Heute habe ich mit dem Tutorial angefangen und schon mit dem einrichten des Proj
 - [x] Ich möchte dass der Chararacter vor den Wänden stehenbleibt.
 - [x] Ich möchte anfangen die Hitboxen zu skalieren.
 
-Heute habe ich angefangen die Bewegungen des Characters zu programmieren. Ich hatte beim Sklarien teilweise noch grosse Probleme und noch eine Schwierigkeit war das mein Tutorial in Godot 3 ist aber meine Version Godot 4 ist, weshalb ich einige Sachen umprogrammieren musste
+Heute habe ich angefangen die Bewegungen des Characters zu programmieren. Ich hatte beim Sklarien teilweise noch grosse Probleme und noch eine Schwierigkeit war das mein Tutorial in Godot 3 ist aber meine Version Godot 4 ist, weshalb ich einige Sachen umprogrammieren musste.
 
 
 ## 23.01
