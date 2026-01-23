@@ -33,11 +33,24 @@ Heute habe ich mit dem Tutorial angefangen und schon mit dem einrichten des Proj
 Heute habe ich angefangen die Bewegungen des Characters zu programmieren. Ich hatte beim Sklarien teilweise noch grosse Probleme und noch eine Schwierigkeit war das mein Tutorial in Godot 3 ist aber meine Version Godot 4 ist, weshalb ich einige Sachen umprogrammieren musste.
 
 
+
+Achtung: Ich habe es nicht mit godot 4 geschafft alle Sachen zu implementieren. Ich habe mir deshalb godot 3 heruntergeladen und dort ein Snake programmiert.
 ## 23.01
 
-- [ ] Ich möchte die Kollisionen programmieren
-- [ ] Ich möchte die Schwerkraft programmieren
-- [ ] Ich möchte ein Level mit einer Tilemap programmieren
-- [ ] Ich möchte noch eigene Texturen erstellen
-- [ ] Ich möchte ein 2tes Level erstellen
+- [x] Grafiken implementieren
+- [x] Logik erstellen
+- [x] Sounds implementieren
+- [x] Alle wichtigen Einstellungen vornehmen
+- [x] Steuerung programmieren
 
+Heute habe ich zuerst probiert an meinem alten Projekt weiterzuarbeiten, jedoch hatte ich Versinsbedingte Probleme, weshalb ich auf Godot 3 umgestiegen bin und dort ein Snake programmiert habe. Dort habe ich alles fertig bekommen was ich wollte.
+
+## ...
+
+- [ ] Ein Menü erstellen
+- [ ] Code übersichtlicher mit Kommentaren versehen
+- [ ] Veeschiedene Skins hinzufügen
+- [ ] Testen
+
+
+      
