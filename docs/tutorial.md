@@ -13,5 +13,5 @@ You will implement grid movement, apple spawning, snake growth, collision detect
 ## Benötigtes Vorwissen
 
 You already know the basics of Godot (scenes/nodes), and basic programming in GDScript:
-variables, functions, arrays (lists), if/else, loops, and how to run a scene.
+variables, functions, arrays (lists), if / else, loops, and how to run a scene.
 
