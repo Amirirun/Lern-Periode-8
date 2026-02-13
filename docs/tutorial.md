@@ -53,7 +53,7 @@ func _input(_event):
 	if Input.is_action_pressed("ui_right"):
 		snake.direction = Vector2(snake.width, 0)
 ```
-
+The snake’s direction is controlled using the arrow keys.
 
 
 
