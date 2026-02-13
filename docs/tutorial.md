@@ -1,9 +1,10 @@
-# Snake Game in Godot 3
-
 ---
-
 title: Snake Game Tutorial
 ---
+
+# Snake Game in Godot 3
+
+
 
 ## Dein Ziel
 
