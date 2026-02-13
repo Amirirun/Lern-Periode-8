@@ -48,12 +48,7 @@ Achtung: Ich habe es nicht mit godot 4 geschafft alle Sachen zu implementieren. 
 
 Heute habe ich zuerst probiert an meinem alten Projekt weiterzuarbeiten, jedoch hatte ich Versinsbedingte Probleme, weshalb ich auf Godot 3 umgestiegen bin und dort ein Snake programmiert habe. Dort habe ich alles fertig bekommen was ich wollte.
 
-## ...
 
-- [ ] Ein Menü erstellen
-- [ ] Code übersichtlicher mit Kommentaren versehen
-- [ ] Veeschiedene Skins hinzufügen
-- [ ] Testen
 
 
       
