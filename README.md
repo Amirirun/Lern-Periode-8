@@ -1,7 +1,7 @@
 
 # Lern-Periode 8
 ---
-title My tutorial
+title: My tutorial
 ---
 Meine engere Auswahl:
 
