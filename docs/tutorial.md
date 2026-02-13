@@ -54,16 +54,6 @@ func _input(_event):
 		snake.direction = Vector2(snake.width, 0)
 ```
 
-The snake’s direction is controlled using the arrow keys.
 
----
 
-## Game Over
 
-```gdscript
-func is_game_over():
-	if snake.body[0].x < 0:
-		return true
-```
-
-The game ends when the snake touches the window border.
