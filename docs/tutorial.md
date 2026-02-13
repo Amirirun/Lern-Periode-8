@@ -55,5 +55,14 @@ func _input(_event):
 ```
 The snake’s direction is controlled using the arrow keys.
 
+![Aufzeichnung 2026-02-13 105034](https://github.com/user-attachments/assets/a57d1622-86bd-4873-9ba6-a7bfe761ad0a)
 
+
+## Common Issues
+
+One common issue is incorrect coordinate calculations.  
+Make sure the snake moves exactly in grid steps using the same `width` value everywhere (for example `40`). If the coordinates are inconsistent, the snake and apple positions will not align properly.
+
+Another frequent mistake is downloading **Godot 4 instead of Godot 3**.  
+This project is written for **Godot 3**, and some code (like `rect_position` or certain APIs) will not work correctly in Godot 4.
 
