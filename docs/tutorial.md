@@ -7,7 +7,7 @@ title: Snake Game Tutorial
 
 ## Dein Ziel
 
-In this tutorial, you will learn how to create a simple Snake game in **Godot 3** using **GDScript**.  
+In this tutorial, you will learn how to create a simple Snake game in **Godot 3** using **GDScript**.
 You will implement grid movement, apple spawning, snake growth, collision detection, and game over logic.
 
 ## Benötigtes Vorwissen
