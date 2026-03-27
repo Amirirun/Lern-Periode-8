@@ -86,6 +86,8 @@ We store the score using SQLite:
 var dict = {"Name": "Player", "Score": score}
 db.insert_row("PlayerInfo", dict)
 Result
+```
+<img width="814" height="1176" alt="image" src="https://github.com/user-attachments/assets/5eee9c20-bbde-44af-b779-678ba4651f5c" />
 
 At the end of this tutorial, you will have a fully working Snake game where:
 
@@ -94,7 +96,7 @@ Apples spawn randomly
 The score increases when eating apples
 The score is saved in a database
 
-<img width="831" height="995" alt="image" src="https://github.com/user-attachments/assets/b75c52b3-dcc4-4892-af34-3721b55eb979" />
+
 
 
 What could go wrong?
@@ -107,3 +109,7 @@ Here are some common problems:
  Game crashes → Missing nodes or wrong paths
  Database not working → Wrong file path (res:// vs user://)
  Score not saving → Table name or columns incorrect
+
+
+
+
