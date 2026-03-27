@@ -98,6 +98,7 @@ The score is saved in a database
 
 What could go wrong?
 
+```gdscript
 Here are some common problems:
 
 ❌ Snake does not move → Input handling is wrong
