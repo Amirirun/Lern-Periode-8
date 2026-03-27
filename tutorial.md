@@ -94,15 +94,16 @@ Apples spawn randomly
 The score increases when eating apples
 The score is saved in a database
 
-(Optional: Add a GIF of your game here)
+<img width="831" height="995" alt="image" src="https://github.com/user-attachments/assets/b75c52b3-dcc4-4892-af34-3721b55eb979" />
+
 
 What could go wrong?
 
-```gdscript
+
 Here are some common problems:
 
-❌ Snake does not move → Input handling is wrong
-❌ Apple spawns inside snake → Random logic needs fixing
-❌ Game crashes → Missing nodes or wrong paths
-❌ Database not working → Wrong file path (res:// vs user://)
-❌ Score not saving → Table name or columns incorrect
+ Snake does not move → Input handling is wrong
+ Apple spawns inside snake → Random logic needs fixing
+ Game crashes → Missing nodes or wrong paths
+ Database not working → Wrong file path (res:// vs user://)
+ Score not saving → Table name or columns incorrect
